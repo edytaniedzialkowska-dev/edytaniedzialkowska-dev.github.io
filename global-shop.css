@@ -6,8 +6,8 @@ this css has the general page stuff
 general
 **/
 html, body {
-	background: #eee;
-	color: #222;
+	background: #000000;
+	color: #FFFFFF;
 	font: 16px/1.5 'Sailec', Arial, sans-serif;
 	width:100%;height:100%;
 }
@@ -169,7 +169,7 @@ banner
 .banner {
 	width: 100%;
 	padding: 90px 40px;
-	background-image: url(/pages/html/2021shop.png);
+	background-image: url(./Convenient_store_ga.jpg);
 	color: #fff;
 	text-align: center;
 	background-position: center, center;
@@ -220,7 +220,7 @@ asset element
     padding-bottom: 20px;
 }
 .mod:hover {
-    background: #dcdcdc;
+    background: #2B2B2B;
     box-shadow: 0 2px 5px -1.5px #0000009e;
 }
 /* asset text */
